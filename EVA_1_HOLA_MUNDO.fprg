@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="FProgra"/>
+        <attribute name="authors" value="USUARIO"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-25 05:49:11 "/>
+        <attribute name="created" value="VVNVQVJJTztERVNLVE9QLU5KS0FQUU07MjAyNS0wOC0yNTsiMDU6MDg6MzYgIjsyODY2"/>
+        <attribute name="edited" value="VVNVQVJJTztERVNLVE9QLU5KS0FQUU07MjAyNS0wOC0yNTsiMDU6NDk6MTEgIjsxOzI5NzI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Hola mundo&quot;" newline="True"/>
+            <output expression="&quot;FUNDAMENTOS DE PROGRAMACI&#211;N&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
