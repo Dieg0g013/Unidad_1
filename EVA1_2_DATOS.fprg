@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_DATOS"/>
+        <attribute name="authors" value="USUARIO"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:10:43 "/>
+        <attribute name="created" value="VVNVQVJJTztERVNLVE9QLU5KS0FQUU07MjAyNS0wOC0yNjsiMDU6MDQ6MDMgIjsyODU3"/>
+        <attribute name="edited" value="VVNVQVJJTztERVNLVE9QLU5KS0FQUU07MjAyNS0wOC0yNjsiMDU6MTA6NDMgIjsxOzI5NjY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Diego Garcia&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
